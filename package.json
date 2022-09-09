@@ -1,0 +1,29 @@
+{
+  "name": "knex",
+  "version": "1.0.0",
+  "description": "KNEX server exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdm13/KNEX.git"
+  },
+  "keywords": [
+    "server",
+    "database",
+    "knex"
+  ],
+  "author": "HDM13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdm13/KNEX/issues"
+  },
+  "homepage": "https://github.com/hdm13/KNEX#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "knex": "^2.3.0",
+    "pg": "^8.8.0"
+  }
+}
